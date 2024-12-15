@@ -188,7 +188,7 @@ This project runs on Ubuntu machines.
 
 - Konstantinos Anastasopoulos https://github.com/anastasofpv
 - Ioannis Vlachos https://github.com/GianVls
-- Aggelos Pournaras https://github.com/JJunior7
+- Aggelos Pournaras https://github.com/Pournarakos
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
